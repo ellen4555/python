@@ -1,3 +1,8 @@
+'''
+author Ellen joy
+date 1/10/2024
+python program to get the student details
+'''
 name=input('enter your name')
 roll_number=int(input("enter your roll no"))
 roll_number=roll_number+1
