@@ -1,6 +1,6 @@
 '''
 Author: Ellen joy
-decreasing triangle
+reverse hill pattern
 '''
 
 limit=int(input("Enter a limit:"))
